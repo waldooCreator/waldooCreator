@@ -12,7 +12,7 @@
 
 - 🎓 **Software Engineering student** who likes shipping complete systems, not just exercises.
 - 🛠️ I've built a **restaurant POS**, a **personal-finance app** (web + offline Android), **ERP integrations** and **desktop tools for lab data**.
-- 🤖 Currently exploring **AI agents and developer tooling**, like a Claude Code mod that turns subagents into a pixel-art office.
+- 🤖 Currently exploring **AI agents and developer tooling**: I build Claude Code mods, like a pixel-art office for subagents, a SQL client inside the terminal and one-click copy for code blocks.
 - 🌱 I enjoy learning the unknown.
 
 ## 🧰 Tech stack
@@ -26,7 +26,7 @@
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/waldooCreator/Menu-flow"><img src="assets/cards/menu-flow.svg" width="100%" alt="Menu Flow — restaurant POS"></a></td>
+    <td width="50%"><a href="https://github.com/waldooCreator/claude-code-estudio-sql"><img src="assets/cards/estudio-sql.svg" width="100%" alt="Estudio SQL — Claude Code mod: SQL client in the terminal"></a></td>
     <td width="50%"><a href="https://github.com/waldooCreator/Conciencia_financiera"><img src="assets/cards/conciencia.svg" width="100%" alt="Conciencia Financiera — personal finance app"></a></td>
   </tr>
   <tr>
@@ -34,7 +34,7 @@
     <td width="50%"><a href="https://github.com/waldooCreator/claude-code-oficina"><img src="assets/cards/oficina.svg" width="100%" alt="Oficina — Claude Code mod"></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/waldooCreator/taller-app-san-alejo"><img src="assets/cards/san-alejo.svg" width="100%" alt="San Alejo — offline inventory app"></a></td>
+    <td width="50%"><a href="https://github.com/waldooCreator/claude-code-copiar"><img src="assets/cards/copiar.svg" width="100%" alt="Copiar — Claude Code mod: copy button on code blocks"></a></td>
     <td width="50%"><a href="https://github.com/waldooCreator/Previo-final-accesibilidad"><img src="assets/cards/accesibilidad.svg" width="100%" alt="Accessible website for visually impaired users"></a></td>
   </tr>
 </table>
@@ -58,10 +58,10 @@
 
 - 🎓 **Estudiante de Ingeniería de Software** al que le gusta terminar sistemas completos, no solo ejercicios.
 - 🛠️ He construido un **POS para restaurantes**, una **app de finanzas personales** (web y Android sin conexión), **integraciones con ERP** y **herramientas de escritorio para datos de laboratorio**.
-- 🤖 Ahora exploro **agentes de IA y herramientas para desarrolladores**, como un mod de Claude Code que convierte a los subagentes en una oficina en pixel art.
+- 🤖 Ahora exploro **agentes de IA y herramientas para desarrolladores**: hago mods de Claude Code, como una oficina en pixel art para los subagentes, un cliente SQL dentro de la terminal y un botón para copiar los bloques de código.
 - 🌱 Me gusta aprender lo desconocido.
 
-**Proyectos destacados:** [Menu Flow](https://github.com/waldooCreator/Menu-flow) (POS para restaurantes) · [Conciencia Financiera](https://github.com/waldooCreator/Conciencia_financiera) (finanzas personales) · [CLC](https://github.com/waldooCreator/CLC) (Investigación de Operaciones paso a paso) · [Oficina](https://github.com/waldooCreator/claude-code-oficina) (mod de Claude Code) · [San Alejo](https://github.com/waldooCreator/taller-app-san-alejo) (inventario móvil sin conexión) · [Sitio accesible](https://github.com/waldooCreator/Previo-final-accesibilidad) (para personas con discapacidad visual).
+**Proyectos destacados:** [Estudio SQL](https://github.com/waldooCreator/claude-code-estudio-sql) (cliente SQL en la terminal, mod de Claude Code) · [Conciencia Financiera](https://github.com/waldooCreator/Conciencia_financiera) (finanzas personales) · [CLC](https://github.com/waldooCreator/CLC) (Investigación de Operaciones paso a paso) · [Oficina](https://github.com/waldooCreator/claude-code-oficina) (mod de Claude Code) · [Copiar](https://github.com/waldooCreator/claude-code-copiar) (botón Copiar en los bloques de código, mod de Claude Code) · [Sitio accesible](https://github.com/waldooCreator/Previo-final-accesibilidad) (para personas con discapacidad visual).
 
 </details>
 
