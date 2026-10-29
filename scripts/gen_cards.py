@@ -25,9 +25,9 @@ CARDS = [
     {'file': 'copiar', 'title': 'COPIAR', 'accent': '#f7768e', 'icon': 'clip',
      'lines': ['Claude Code mod: a Copy button on', "every code block in Claude's", 'replies. One click, exact text.'],
      'tags': ['TypeScript', 'Claude Code', 'DX']},
-    {'file': 'accesibilidad', 'title': 'A11Y SITE', 'accent': '#bb9af7', 'icon': 'ear',
-     'lines': ['Accessible website for visually', 'impaired users: voice narration', 'and listening mode. WCAG 2.2 AA.'],
-     'tags': ['JavaScript', 'Web Speech', 'a11y']},
+    {'file': 'segundo-cerebro', 'title': '2ND BRAIN', 'accent': '#bb9af7', 'icon': 'brain',
+     'lines': ['Claude Code mod: a knowledge graph', 'of every project (graphify), built', 'in one click and always up to date.'],
+     'tags': ['TypeScript', 'graphify', 'AI agents']},
 ]
 
 ICONS = {
@@ -43,6 +43,8 @@ ICONS = {
            {'d': '#1f6f9f', 'l': '#bfe9ff', 'b': '#4fa3d9', 'h': '#e0f6ff'}),
     'clip': (['...kkkk...', '.bbkmmkbb.', 'bppppppppb', 'bpggggggpb', 'bppppppppb', 'bpgggggppb', 'bppppppppb', 'bpggggggpb', 'bppppppppb', 'bppppppppb', '.bbbbbbbb.'],
              {'b': '#b07a52', 'k': '#c9c9d1', 'm': '#7a7a85', 'p': '#f2efe8', 'g': '#f7768e'}),
+    'brain': (['...pppp.pp...', '..pPPppPPpp..', '.pPPpPPpPPpp.', 'pPpppPpppPPpp', 'pPPpPPPpPpPpp', 'ppPPpppPPppPp', 'pPppPPpppPPpp', '.pPPpPPpPPpp.', '..ppppppppp..', '.....pp......', '.....pp......'],
+              {'p': '#9d7cd8', 'P': '#e0c3ff'}),
     'box': (['..bbbbbbbb..', '.bBBBBBBBBb.', 'bbbbbbbbbbbb', 'bBbbbttbbbBb', 'bBbbbttbbbBb', 'bBbbbbbbbbBb', 'bBbbbbbbbbBb', 'bbbbbbbbbbbb'],
             {'b': '#a8743f', 'B': '#c99158', 't': '#e9e4da'}),
     'ear': (['....s.......', '...ss...w...', 'ssssss...w..', 'ssssss.w..w.', 'ssssss.w..w.', 'ssssss...w..', '...ss...w...', '....s.......'],

@@ -12,7 +12,7 @@
 
 - 🎓 **Software Engineering student** who likes shipping complete systems, not just exercises.
 - 🛠️ I've built a **restaurant POS**, a **personal-finance app** (web + offline Android), **ERP integrations** and **desktop tools for lab data**.
-- 🤖 Currently exploring **AI agents and developer tooling**: I build Claude Code mods, like a pixel-art office for subagents, a SQL client inside the terminal and one-click copy for code blocks.
+- 🤖 Currently exploring **AI agents and developer tooling**: I build Claude Code mods, like a pixel-art office for subagents, a SQL client inside the terminal, one-click copy for code blocks and a second brain that keeps a knowledge graph of every project.
 - 🌱 I enjoy learning the unknown.
 
 ## 🧰 Tech stack
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td width="50%"><a href="https://github.com/waldooCreator/claude-code-copiar"><img src="assets/cards/copiar.svg" width="100%" alt="Copiar — Claude Code mod: copy button on code blocks"></a></td>
-    <td width="50%"><a href="https://github.com/waldooCreator/Previo-final-accesibilidad"><img src="assets/cards/accesibilidad.svg" width="100%" alt="Accessible website for visually impaired users"></a></td>
+    <td width="50%"><a href="https://github.com/waldooCreator/claude-code-segundo-cerebro"><img src="assets/cards/segundo-cerebro.svg" width="100%" alt="Segundo cerebro — Claude Code mod: knowledge graph of every project"></a></td>
   </tr>
 </table>
 
@@ -58,10 +58,10 @@
 
 - 🎓 **Estudiante de Ingeniería de Software** al que le gusta terminar sistemas completos, no solo ejercicios.
 - 🛠️ He construido un **POS para restaurantes**, una **app de finanzas personales** (web y Android sin conexión), **integraciones con ERP** y **herramientas de escritorio para datos de laboratorio**.
-- 🤖 Ahora exploro **agentes de IA y herramientas para desarrolladores**: hago mods de Claude Code, como una oficina en pixel art para los subagentes, un cliente SQL dentro de la terminal y un botón para copiar los bloques de código.
+- 🤖 Ahora exploro **agentes de IA y herramientas para desarrolladores**: hago mods de Claude Code, como una oficina en pixel art para los subagentes, un cliente SQL dentro de la terminal, un botón para copiar los bloques de código y un segundo cerebro con el grafo de conocimiento de cada proyecto.
 - 🌱 Me gusta aprender lo desconocido.
 
-**Proyectos destacados:** [Estudio SQL](https://github.com/waldooCreator/claude-code-estudio-sql) (cliente SQL en la terminal, mod de Claude Code) · [Conciencia Financiera](https://github.com/waldooCreator/Conciencia_financiera) (finanzas personales) · [CLC](https://github.com/waldooCreator/CLC) (Investigación de Operaciones paso a paso) · [Oficina](https://github.com/waldooCreator/claude-code-oficina) (mod de Claude Code) · [Copiar](https://github.com/waldooCreator/claude-code-copiar) (botón Copiar en los bloques de código, mod de Claude Code) · [Sitio accesible](https://github.com/waldooCreator/Previo-final-accesibilidad) (para personas con discapacidad visual).
+**Proyectos destacados:** [Estudio SQL](https://github.com/waldooCreator/claude-code-estudio-sql) (cliente SQL en la terminal, mod de Claude Code) · [Conciencia Financiera](https://github.com/waldooCreator/Conciencia_financiera) (finanzas personales) · [CLC](https://github.com/waldooCreator/CLC) (Investigación de Operaciones paso a paso) · [Oficina](https://github.com/waldooCreator/claude-code-oficina) (mod de Claude Code) · [Copiar](https://github.com/waldooCreator/claude-code-copiar) (botón Copiar en los bloques de código, mod de Claude Code) · [Segundo cerebro](https://github.com/waldooCreator/claude-code-segundo-cerebro) (grafo de conocimiento de cada proyecto, mod de Claude Code).
 
 </details>
 
