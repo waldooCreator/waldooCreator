@@ -27,7 +27,7 @@
 <table>
   <tr>
     <td width="50%"><a href="https://github.com/waldooCreator/claude-code-estudio-sql"><img src="assets/cards/estudio-sql.svg" width="100%" alt="Estudio SQL — Claude Code mod: SQL client in the terminal"></a></td>
-    <td width="50%"><a href="https://github.com/waldooCreator/Conciencia_financiera"><img src="assets/cards/conciencia.svg" width="100%" alt="Conciencia Financiera — personal finance app"></a></td>
+    <td width="50%"><a href="https://github.com/waldooCreator/claude-code-historial"><img src="assets/cards/historial.svg" width="100%" alt="Historial — Claude Code mod: sidebar with your past chats"></a></td>
   </tr>
   <tr>
     <td width="50%"><a href="https://github.com/waldooCreator/CLC"><img src="assets/cards/clc.svg" width="100%" alt="CLC — Operations Research calculator"></a></td>
@@ -61,7 +61,7 @@
 - 🤖 Ahora exploro **agentes de IA y herramientas para desarrolladores**: hago mods de Claude Code, como una oficina en pixel art para los subagentes, un cliente SQL dentro de la terminal, un botón para copiar los bloques de código y un segundo cerebro con el grafo de conocimiento de cada proyecto.
 - 🌱 Me gusta aprender lo desconocido.
 
-**Proyectos destacados:** [Estudio SQL](https://github.com/waldooCreator/claude-code-estudio-sql) (cliente SQL en la terminal, mod de Claude Code) · [Conciencia Financiera](https://github.com/waldooCreator/Conciencia_financiera) (finanzas personales) · [CLC](https://github.com/waldooCreator/CLC) (Investigación de Operaciones paso a paso) · [Oficina](https://github.com/waldooCreator/claude-code-oficina) (mod de Claude Code) · [Copiar](https://github.com/waldooCreator/claude-code-copiar) (botón Copiar en los bloques de código, mod de Claude Code) · [Segundo cerebro](https://github.com/waldooCreator/claude-code-segundo-cerebro) (grafo de conocimiento de cada proyecto, mod de Claude Code).
+**Proyectos destacados:** [Estudio SQL](https://github.com/waldooCreator/claude-code-estudio-sql) (cliente SQL en la terminal, mod de Claude Code) · [Historial](https://github.com/waldooCreator/claude-code-historial) (barra lateral con tus conversaciones, mod de Claude Code) · [CLC](https://github.com/waldooCreator/CLC) (Investigación de Operaciones paso a paso) · [Oficina](https://github.com/waldooCreator/claude-code-oficina) (mod de Claude Code) · [Copiar](https://github.com/waldooCreator/claude-code-copiar) (botón Copiar en los bloques de código, mod de Claude Code) · [Segundo cerebro](https://github.com/waldooCreator/claude-code-segundo-cerebro) (grafo de conocimiento de cada proyecto, mod de Claude Code).
 
 </details>
 
